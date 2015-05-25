@@ -1,0 +1,5 @@
+nft.temp0
+nft.hum0
+5
+2
+croptekfp.cloudapp.net

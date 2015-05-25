@@ -1,0 +1,6 @@
+nft.flow0
+nft.flow1
+17
+22
+0.5
+croptekfp.cloudapp.net

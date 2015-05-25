@@ -1,0 +1,4 @@
+nft.watTemp0
+/sys/bus/w1/devices/28-000004ce57d8/w1_slave
+2
+croptekfp.cloudapp.net

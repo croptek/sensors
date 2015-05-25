@@ -1,0 +1,5 @@
+nft.dist0
+24
+23
+2
+croptekfp.cloudapp.net

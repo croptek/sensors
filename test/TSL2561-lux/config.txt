@@ -1,0 +1,3 @@
+nft.lux
+2
+croptekfp.cloudapp.net
